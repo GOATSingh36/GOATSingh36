@@ -1,6 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am GoatSingh!
 
-I am [Ritesh](https://riteshyadav.netlify.app/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;.🎯
 
 I ❤️ to create Android Application and to train Machine Learning🤖 and Deep Learning Models and Networks🕸.I have a 1+ year of Experience in creating Android Application with Clean architecture and Best Practices,currently I am engaged in learning Deep Learning and Taking part in Kaggle Competitions🏆,I am a Kaggle 3X Expert and also a part of various technical organization's. 🚀 Beside's programming, I enjoy eating food and traveling.
 
@@ -89,7 +88,7 @@ I ❤️ to create Android Application and to train Machine Learning🤖 and Dee
 ### 📫 How to reach me? 
 
   ⦿ Visit my [Website](https://riteshyadav.netlify.app/) 🌐 <br>
-  ⦿ Follow me on [Kaggle](https://www.kaggle.com/ritesh2000)🌐 <br>
-  ⦿ Follow me on [Dribbble](https://dribbble.com/ritesh-yadav)🎨 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh-yadav2011/) 👨🏻‍💻 <br>
-  ⦿ Shoot Me an [Email](mailto:daydreamingguy941@gmail.com) 💌 <br>
+  ⦿ Follow me on [Kaggle](https://www.kaggle.com/)🌐 <br>
+  ⦿ Follow me on [Dribbble](https://dribbble.com/)🎨 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in//) 👨🏻‍💻 <br>
+  ⦿ Shoot Me an [Email](@gmail.com) 💌 <br>
